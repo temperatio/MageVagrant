@@ -7,9 +7,8 @@ Magento Developer's Guide book.
 ## Features
 
 - Automatic setup and configuration of Magento instances
-- Automated checkout from the SVN
+- Automated checkout from github (https://github.com/amacgregor/mage_1702)
 - Automated Database creation
-- Magento TAF (Test Automated Framework) receipe included
 
 ## Requirements
 
